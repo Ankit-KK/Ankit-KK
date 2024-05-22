@@ -1,21 +1,21 @@
 # Hi, I’m @Ankit-KK 👋
 
-## 👀 I’m interested in
+## 👀 Interests
 - Data Visualization
 - Machine Learning
 - Data Analysis
 - Predictive Analysis
 
-## 🌱 I’m currently learning
+## 🌱 Learning
 - Advanced statistical methods and predictive analysis
-- Enhancing my proficiency in Python, SQL, and data visualization tools
+- Enhancing skills in Python, SQL, and data visualization tools
 
-## 💞️ I’m looking to collaborate on
-- Data analysis projects that involve complex data extraction and preprocessing
-- Developing innovative data-driven solutions for business problems
-- Creating interactive data dashboards and visualizations
+## 💞️ Collaboration
+- Data analysis and preprocessing projects
+- Developing data-driven business solutions
+- Interactive data dashboards and visualizations
 
-## 📫 How to reach me
+## 📫 Contact
 - Email: ankitashuk20@gmail.com
 - LinkedIn: [ankit-kumar-a8521a252](https://www.linkedin.com/in/ankit-kumar-a8521a252)
 - Portfolio: [portfolioankit.carrd.co](https://portfolioankit.carrd.co/)
@@ -23,54 +23,28 @@
 ## 😄 Pronouns
 - He/Him
 
-## ⚡ Fun fact
-- I have developed custom algorithms that have significantly increased data extraction speed and efficiency, saving teams numerous hours per week.
+## ⚡ Fun Fact
+- Developed custom algorithms that increased data extraction efficiency by 30%.
 
 ---
 
-### Summary
-Dedicated data analyst with a strong background in statistical analysis and proficiency in Python, SQL, and data visualization tools such as Tableau and PowerBI. Skilled in web scraping techniques to extract valuable insights from online sources. Committed to problem-solving and utilizing data-driven approaches to improve decision-making processes. Eager to contribute to organizational success and dedicated to continuous learning and growth in the field.
+**Summary:** Dedicated data analyst skilled in Python, SQL, Tableau, and PowerBI, with expertise in web scraping and data-driven problem-solving.
 
-### Skills
-- **Technical Skills:** Python, SQL, Power BI, Data Dashboards
-- **Frameworks:** Selenium, Beautiful Soup, requests-html, Dash, Streamlit
+**Skills:** Python, SQL, Power BI, Data Dashboards, Selenium, Beautiful Soup, requests-html, Dash, Streamlit
 
-### Experience
-**Data Intern**  
-*NYX Today* - Bengaluru, India (March 2024 - Present)  
-- Led a team of six interns in executing a web scraping project, achieving 95% data extraction efficiency.
-- Developed an algorithm that increased extraction speed by 30%, saving 15 hours per week.
-- Automated the collection and preprocessing of image and video datasets, reducing manual labor by 86%.
+**Experience:**
+- **Data Intern, NYX Today** (March 2024 - Present): Led a web scraping project, improving extraction efficiency by 95%.
+- **Data Analyst Intern, Internship Studio** (Dec 2023 - Jan 2024): Automated data cleaning, increasing efficiency by 30%.
 
-**Data Analyst Intern**  
-*Internship Studio* (December 2023 - January 2024)  
-- Automated data cleaning procedures, reducing processing time by 30%.
-- Enhanced the accuracy of visualizations with advanced data cleaning techniques.
-- Developed an automated data preprocessing pipeline, reducing manual intervention by 40%.
+**Projects:**
+- **Song Recommendation App:** Streamlit-based app for personalized song suggestions.
+- **RFM Analysis:** Python-based analysis and dashboard for customer insights.
+- **Netflix Subscription Forecasting:** ARIMA modeling for subscription trend forecasting.
 
-### Projects
-**Song Recommendation App**  
-*January 2024*  
-- Implemented a web-based app using Streamlit, offering personalized song suggestions.
+**Education:**
+- **Bachelors in Computer Applications**, Amrita Vishwa Vidyapeetham, 2024
+- **PGP in Data Science and Machine Learning**, Intellipaat, 2024
 
-**Python-Powered RFM Analysis**  
-*February 2024*  
-- Developed an RFM Analysis and Dashboard for actionable customer insights.
-
-**Netflix Subscription Forecasting**  
-*February 2024*  
-- Used ARIMA modeling to forecast subscription trends, aiding in strategic decision-making.
-
-### Education
-- **Bachelors in Computer Applications**  
-  Amrita Vishwa Vidyapeetham, Coimbatore, 2024
-
-- **PGP in Data Science and Machine Learning**  
-  Intellipaat, 2024
-
-### Certifications
-- **Machine Learning Specialization**  
-  Deeplearning.AI/Stanford Online, 2024
-
-- **Google Data Analytics**  
-  Coursera, 2024
+**Certifications:**
+- **Machine Learning Specialization**, Deeplearning.AI/Stanford Online, 2024
+- **Google Data Analytics**, Coursera, 2024
