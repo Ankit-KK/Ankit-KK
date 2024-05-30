@@ -1,4 +1,4 @@
-# Hi, I’m @Ankit-KK 👋
+# Hi, I’m Ankit 👋
 
 ## 👀 Interests
 - Data Visualization
