@@ -24,7 +24,7 @@
 - He/Him
 
 ## ⚡ Fun Fact
-- Developed custom algorithms that increased data extraction efficiency by 30%.
+- Developed custom Python scripts to automate the collection and preprocessing of image and video datasets, reducing manual labor by 86%.
 
 ---
 
