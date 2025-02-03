@@ -17,8 +17,7 @@
 
 ## 📫 Contact
 - Email: ankitashuk20@gmail.com
-- LinkedIn: [ankit-kumar-a8521a252](https://www.linkedin.com/in/ankit-kumar-a8521a252)
-- Portfolio: [portfolioankit.carrd.co](https://portfolioankit.carrd.co/)
+- LinkedIn: [ankitka]([https://www.linkedin.com/in/ankit-kumar-a8521a252](https://www.linkedin.com/in/ankitka/))
 
 ## 😄 Pronouns
 - He/Him
